@@ -12,5 +12,6 @@ It includes q-range and azimuthal angle  (theta) masking, 1D integration, and 1D
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-saxs-demo.git
-   cd my-saxs-demo
+   git clone https://github.com/lsbesley/SAXSUtils.git
+   
+
