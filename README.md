@@ -1,8 +1,14 @@
 # SAXS Demo
 
-This repository contains a demonstration Jupyter notebook for analyzing 2D SAXS and WAXS data from Xenocs Xeuss 3 .edf files.
+This repository contains a demonstration Jupyter notebook for analyzing 2D SAXS and WAXS data from Xenocs Xeuss 3 .edf files, and provides some useful tools.
 
-It includes q-range and azimuthal angle  (theta) masking, 1D integration, and 1D fitting for an arbitrary _n_ gauss peaks.
+It includes:
+1. Importing 2D .edf data from Xenocs Xeuss 3.0 machine, including metadata
+2. Create 2D images and 1D plots with correct parameters inferred from file metadata
+3. create q-range and azimuthal angle  (theta) masks,
+4. 1D integration
+5. 1D fitting for an arbitrary _n_ gauss peaks.
+
 
 ## Contents
 - `demo.ipynb`: Jupyter notebook showcasing the workflow.
@@ -14,5 +20,6 @@ It includes q-range and azimuthal angle  (theta) masking, 1D integration, and 1D
    ```bash
    git clone https://github.com/lsbesley/SAXSUtils.git
    
+
 
 
