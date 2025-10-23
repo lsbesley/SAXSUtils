@@ -11,7 +11,7 @@ It includes:
 
 
 ## Contents
-- `demo.ipynb`: Jupyter notebook showcasing the workflow.
+- `WAXS_Fitting_ExampleGH.ipynb`: Jupyter notebook showcasing the workflow.
 - `saxs_utils_GH.py`: Utility functions for SAXS and WAXS data processing.
 - `data/WAXS_0_64670.edf`: Example 2D SAXS dataset.
 
@@ -20,6 +20,7 @@ It includes:
    ```bash
    git clone https://github.com/lsbesley/SAXSUtils.git
    
+
 
 
 
