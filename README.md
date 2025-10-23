@@ -7,11 +7,12 @@ It includes q-range and azimuthal angle  (theta) masking, 1D integration, and 1D
 ## Contents
 - `demo.ipynb`: Jupyter notebook showcasing the workflow.
 - `saxs_utils_GH.py`: Utility functions for SAXS and WAXS data processing.
-- `data/example_data.dat`: Example 2D SAXS dataset.
+- `data/WAXS_0_64670.edf`: Example 2D SAXS dataset.
 
 ## Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/lsbesley/SAXSUtils.git
    
+
 
